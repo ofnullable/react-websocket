@@ -11,17 +11,16 @@
   "author": "joonak",
   "license": "MIT",
   "dependencies": {
-    "@material-ui/core": "^4.0.2",
-    "@material-ui/icons": "^4.0.1",
-    "net": "^1.0.2",
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/icons": "^4.5.1",
     "next": "^8.1.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "sockjs-client": "^1.3.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "sockjs-client": "^1.4.0",
     "stompjs": "^2.3.3"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1",
-    "webpack": "^4.33.0"
+    "nodemon": "^1.19.3",
+    "webpack": "^4.41.1"
   }
 }
